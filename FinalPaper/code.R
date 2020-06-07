@@ -62,24 +62,6 @@ write.csv(point, file = "point.csv")
 # rolling window estimation
 sp = spilloverRollingDY12(data, n.ahead=500, no.corr=F, func_est="big_var_est", params_est=list(), window=60)
 p = plotOverall(sp)
-# p = ts(p, start = c(2007.10,12), frequency = 230)
-# plot(p)
-# # 1st 
-# p[2003:2019,] <- p[2003:2019,]-1
-# # 2nd
-# p[1857:1920,] <- p[1857:1920,]+2
-# # financial crisis
-# p[300:390,] <- p[300:390,]+4
-# # shit
-# p[100:400] <- p[100:400,]+2
-# p[1857:2030,] <- p[1857:2030,]+2
-# # ojbk
-# h <- decompose(p)
-# opar <- par(no.readonly = TRUE)
-# par(mfrow=c(2,1))
-# plot(p, xlab="Year", ylab="System-Wide Connectedness")
-# plot(h$trend, xlab="Year", ylab="Trend")
-# par(opar)
 
 # compare
 
