@@ -1,0 +1,97 @@
+ID,Label,Weight,Color
+forestry,forestry,0.035090996,0.359780471
+agricultural products processing,agricultural products processing,0.02071612,0.581678945
+agricultural comprehensive,agricultural comprehensive,0.031570079,0.489520814
+feed,feed,0.028565606,0.582804757
+fishery,fishery,0.022113724,0.213471893
+plantation,plantation,0.021843282,0.794647457
+livestock,livestock,0.022620644,0.532186435
+animal health,animal health,0.026030588,1.118781416
+coal mining,coal mining,0.0244854,1.505049399
+other mining,other mining,0.023928529,0.434353464
+oil mining,oil mining,0.064378085,0.025322467
+mining services,mining services,0.02111089,4.910703456
+chemical fiber,chemical fiber,0.02065697,0.461784569
+chemical raw materials,chemical raw materials,0.02326857,0.427573516
+chemical products,chemical products,0.020836815,1.084366993
+petrochemical,petrochemical,0.026220716,0.632272559
+plastics,plastics,0.021978073,0.824537896
+rubber,rubber,0.021415215,1.125069934
+steel,steel,0.025137462,0.899302105
+metal and non-metallic materials,metal and non-metallic materials,0.02189901,1.36336245
+gold,gold,0.039580011,4.565141961
+rare metals,rare metals,0.028623308,6.932663275
+industrial metals,industrial metals,0.02684306,0.388264837
+general machinery,general machinery,0.02028737,1.306944924
+instrumentation,instrumentation,0.021523224,1.062882583
+special equipment,special equipment,0.020118853,2.791502921
+metal products,metal products,0.020765677,1.116889552
+transportation equipment,transportation equipment,0.128137347,6.776668945
+Semiconductor,Semiconductor,0.024950393,0.197422343
+other electronic,other electronic,0.020861852,1.556900858
+components,components,0.020221829,0.474181711
+optical optoelectronics,optical optoelectronics,0.020999753,0.153341128
+electronics manufacturing,electronics manufacturing,0.023658715,0.667806199
+automotive services,automotive services,0.025461221,0.139142191
+auto parts,auto parts,0.020181934,1.205512927
+automotive vehicles,automotive vehicles,0.036805119,1.229585683
+computer equipment,computer equipment,0.023455699,0.418123287
+communication equipment,communication equipment,0.022699004,0.331530879
+white goods,white goods,0.025994819,2.818731286
+audiovisual equipment,audiovisual equipment,0.036353644,0.107060761
+beverage manufacturing,beverage manufacturing,0.023393388,2.331937179
+food processing,food processing,0.021263723,3.534165858
+textile manufacturing,textile manufacturing,0.022182596,0.497461873
+clothing come textiles,clothing come textiles,0.021785763,0.518326714
+packaging and printing,packaging and printing,0.022260457,0.648001188
+household light industry,household light industry,0.021988539,0.438409613
+papermaking,papermaking,0.021781951,0.345817495
+chemical pharmaceutical,chemical pharmaceutical,0.021676745,2.207149797
+biology products,biology products,0.024737082,1.554473811
+medical devices,medical devices,0.025173447,1.844954215
+pharmaceutical business,pharmaceutical business,0.0235617,1.875640707
+chinese medicine,chinese medicine,0.020656069,1.933752106
+medical services,medical services,0.030962781,0.882536809
+electricity,electricity,0.021662612,0.388754054
+environmental protection,environmental protection,0.025668967,0.274783587
+Gas,Gas,0.03561516,1.564548359
+Water,Water,0.02739644,0.699556886
+Harbor,Harbor,0.023125268,1.448038624
+Public Transportation,Public Transportation,0.024352628,0.988927735
+Air Transportation,Air Transportation,0.030653509,0.785919255
+Airport,Airport,0.028466763,0.521936554
+Expressway,Expressway,0.018777239,0.261094212
+Shipping,Shipping,0.020607935,0.556131276
+Railway Transportation,Railway Transportation,0.026750202,0.147763837
+Logistics,Logistics,0.026934174,2.823639124
+Real Estate Development,Real Estate Development,0.023559047,1.647030153
+Park Development,Park Development,0.026265075,0.438500016
+Multi-Finance,Multi-Finance,0.035622432,0.516839143
+Banking,Banking,0.067688046,0.282488223
+Brokers,Brokers,0.31578942,3.242837874
+Insurance,Insurance,0.117754189,0.033187558
+Trade,Trade,0.02093114,2.163148794
+General Retail,General Retail,0.021275774,1.455900817
+Professional Retail,Professional Retail,0.03226035,7.924688985
+Commercial Property Management,Commercial Property Management,0.024485013,0.114435865
+Catering,Catering,0.042491014,0.108313427
+Attractions,Attractions,0.030963477,3.725330137
+Hotels,Hotels,0.029782886,0.735481592
+Tourism,Tourism,0.025358234,0.875612646
+Computer Application,Computer Application,0.031349384,1.495465569
+Communication Operations,Communication Operations,0.032348677,0.456473926
+Cement Manufacturing,Cement Manufacturing,0.02288149,0.451912899
+Glass Manufacturing,Glass Manufacturing,0.022259805,1.712551961
+Other Building Materials,Other Building Materials,0.021267619,2.993258599
+Decoration,Decoration,0.043500769,1.696034988
+Motor,Motor,0.023290126,6.770892738
+Electrical Automation Equipment,Electrical Automation Equipment,0.022166509,2.548215881
+Power Equipment,Power Equipment,0.019426323,1.495971972
+High and Low Voltage Equipment,High and Low Voltage Equipment,0.021042648,5.756612053
+Aerospace Equipment,Aerospace Equipment,0.024183763,2.801306208
+Aviation Equipment,Aviation Equipment,0.022695634,5.374859599
+Ground Armament,Ground Armament,0.021867533,4.431266004
+Shipbuilding,Shipbuilding,0.018921765,10.58115989
+Internet Media,Internet Media,0.027689074,1.284338129
+Cultural Media,Cultural Media,0.031586023,0.150138344
+Other Delivery Equipment,Other Delivery Equipment,0.020181264,0.899418677
