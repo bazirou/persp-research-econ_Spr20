@@ -14,4 +14,4 @@ I use R to realized to whole model based on the framwork of **Diebold–Yilmaz v
 - [BigVAR](https://github.com/wbnicholson/BigVAR)
 - [tidyverse](https://www.tidyverse.org/)
 
-The output of R is stored in the *r file* folder. Also, I use [Gephi](https://gephi.org/) to draw the network plot and the related file is stored in *gephi file* folder.
+The output of R is stored in `r file`. Also, I use [Gephi](https://gephi.org/) to draw the network plot and the related file is stored in `gephi file`.
